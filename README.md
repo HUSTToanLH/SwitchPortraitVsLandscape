@@ -1,0 +1,2 @@
+# SwitchPortraitVsLandscape
+Screen orientation
